@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DEAD-MUNSHI/static/css/main.b5e28be5.chunk.css",
-    "main.js": "/DEAD-MUNSHI/static/js/main.bf399e23.chunk.js",
-    "main.js.map": "/DEAD-MUNSHI/static/js/main.bf399e23.chunk.js.map",
+    "main.js": "/DEAD-MUNSHI/static/js/main.6316d8b3.chunk.js",
+    "main.js.map": "/DEAD-MUNSHI/static/js/main.6316d8b3.chunk.js.map",
     "runtime-main.js": "/DEAD-MUNSHI/static/js/runtime-main.bccb2239.js",
     "runtime-main.js.map": "/DEAD-MUNSHI/static/js/runtime-main.bccb2239.js.map",
     "static/css/2.2a86faee.chunk.css": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css",
     "static/js/2.16883552.chunk.js": "/DEAD-MUNSHI/static/js/2.16883552.chunk.js",
     "static/js/2.16883552.chunk.js.map": "/DEAD-MUNSHI/static/js/2.16883552.chunk.js.map",
     "index.html": "/DEAD-MUNSHI/index.html",
-    "precache-manifest.2535e7b408e151412291b37320c42ec6.js": "/DEAD-MUNSHI/precache-manifest.2535e7b408e151412291b37320c42ec6.js",
+    "precache-manifest.756dda4caaf568106f5f75e0fec409d1.js": "/DEAD-MUNSHI/precache-manifest.756dda4caaf568106f5f75e0fec409d1.js",
     "service-worker.js": "/DEAD-MUNSHI/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.b5e28be5.chunk.css.map": "/DEAD-MUNSHI/static/css/main.b5e28be5.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.16883552.chunk.js",
     "static/css/main.b5e28be5.chunk.css",
-    "static/js/main.bf399e23.chunk.js"
+    "static/js/main.6316d8b3.chunk.js"
   ]
 }
