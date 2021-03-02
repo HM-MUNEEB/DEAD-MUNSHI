@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/DEAD-MUNSHI/static/css/main.b5e28be5.chunk.css",
+    "main.js": "/DEAD-MUNSHI/static/js/main.bf399e23.chunk.js",
+    "main.js.map": "/DEAD-MUNSHI/static/js/main.bf399e23.chunk.js.map",
+    "runtime-main.js": "/DEAD-MUNSHI/static/js/runtime-main.bccb2239.js",
+    "runtime-main.js.map": "/DEAD-MUNSHI/static/js/runtime-main.bccb2239.js.map",
+    "static/css/2.2a86faee.chunk.css": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css",
+    "static/js/2.16883552.chunk.js": "/DEAD-MUNSHI/static/js/2.16883552.chunk.js",
+    "static/js/2.16883552.chunk.js.map": "/DEAD-MUNSHI/static/js/2.16883552.chunk.js.map",
+    "index.html": "/DEAD-MUNSHI/index.html",
+    "precache-manifest.2535e7b408e151412291b37320c42ec6.js": "/DEAD-MUNSHI/precache-manifest.2535e7b408e151412291b37320c42ec6.js",
+    "service-worker.js": "/DEAD-MUNSHI/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.b5e28be5.chunk.css.map": "/DEAD-MUNSHI/static/css/main.b5e28be5.chunk.css.map",
+    "static/js/2.16883552.chunk.js.LICENSE.txt": "/DEAD-MUNSHI/static/js/2.16883552.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DEAD-MUNSHI/static/media/DEAD-MUNSHI.2aae33ce.png",
+    "static/media/bg - signUp.png": "/DEAD-MUNSHI/static/media/bg - signUp.2d05ef70.png",
+    "static/media/bg.png": "/DEAD-MUNSHI/static/media/bg.ddb4d662.png",
+    "static/media/cancel.svg": "/DEAD-MUNSHI/static/media/cancel.cad70081.svg",
+    "static/media/check.svg": "/DEAD-MUNSHI/static/media/check.c0e4ffa8.svg",
+    "static/media/facebook.svg": "/DEAD-MUNSHI/static/media/facebook.becc1a48.svg",
+    "static/media/instagram.svg": "/DEAD-MUNSHI/static/media/instagram.485aabce.svg",
+    "static/media/loading.svg": "/DEAD-MUNSHI/static/media/loading.a75a5f09.svg",
+    "static/media/loading_small_black.svg": "/DEAD-MUNSHI/static/media/loading_small_black.98e0685c.svg",
+    "static/media/logout.svg": "/DEAD-MUNSHI/static/media/logout.e75855a1.svg",
+    "static/media/posts.svg": "/DEAD-MUNSHI/static/media/posts.382f1e7d.svg",
+    "static/media/reload.svg": "/DEAD-MUNSHI/static/media/reload.8f3bc11a.svg",
+    "static/media/user.svg": "/DEAD-MUNSHI/static/media/user.ee5b2f48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bccb2239.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.16883552.chunk.js",
+    "static/css/main.b5e28be5.chunk.css",
+    "static/js/main.bf399e23.chunk.js"
+  ]
+}
