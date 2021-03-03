@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DEAD-MUNSHI/static/css/main.8317360e.chunk.css",
+    "main.css": "/DEAD-MUNSHI/static/css/main.1d6b83f1.chunk.css",
     "main.js": "/DEAD-MUNSHI/static/js/main.a9ecd593.chunk.js",
     "main.js.map": "/DEAD-MUNSHI/static/js/main.a9ecd593.chunk.js.map",
     "runtime-main.js": "/DEAD-MUNSHI/static/js/runtime-main.bccb2239.js",
@@ -9,10 +9,10 @@
     "static/js/2.e3b14bd0.chunk.js": "/DEAD-MUNSHI/static/js/2.e3b14bd0.chunk.js",
     "static/js/2.e3b14bd0.chunk.js.map": "/DEAD-MUNSHI/static/js/2.e3b14bd0.chunk.js.map",
     "index.html": "/DEAD-MUNSHI/index.html",
-    "precache-manifest.44d1c6c3126d951d177817a98c7b5ce1.js": "/DEAD-MUNSHI/precache-manifest.44d1c6c3126d951d177817a98c7b5ce1.js",
+    "precache-manifest.30ab58582b2187bd8f33fabaf497a37c.js": "/DEAD-MUNSHI/precache-manifest.30ab58582b2187bd8f33fabaf497a37c.js",
     "service-worker.js": "/DEAD-MUNSHI/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.8317360e.chunk.css.map": "/DEAD-MUNSHI/static/css/main.8317360e.chunk.css.map",
+    "static/css/main.1d6b83f1.chunk.css.map": "/DEAD-MUNSHI/static/css/main.1d6b83f1.chunk.css.map",
     "static/js/2.e3b14bd0.chunk.js.LICENSE.txt": "/DEAD-MUNSHI/static/js/2.e3b14bd0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/DEAD-MUNSHI/static/media/DEAD-MUNSHI.2aae33ce.png",
     "static/media/bg - signUp.png": "/DEAD-MUNSHI/static/media/bg - signUp.2d05ef70.png",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.bccb2239.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.e3b14bd0.chunk.js",
-    "static/css/main.8317360e.chunk.css",
+    "static/css/main.1d6b83f1.chunk.css",
     "static/js/main.a9ecd593.chunk.js"
   ]
 }
