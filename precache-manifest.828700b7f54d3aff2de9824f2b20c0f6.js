@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa203b2b012aafa8b073a2ef1f82a862",
+    "revision": "6efd3974d66cb9bf8b88167ec3c9d6fb",
     "url": "/DEAD-MUNSHI/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DEAD-MUNSHI/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "a154c527842ff351acfa",
-    "url": "/DEAD-MUNSHI/static/css/main.1fedcedf.chunk.css"
+    "revision": "513bee13a2016220ba14",
+    "url": "/DEAD-MUNSHI/static/css/main.d4ee663e.chunk.css"
   },
   {
     "revision": "aa12d669f18a3b3ebb98",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DEAD-MUNSHI/static/js/2.40bb3c57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a154c527842ff351acfa",
+    "revision": "513bee13a2016220ba14",
     "url": "/DEAD-MUNSHI/static/js/main.dfd0351d.chunk.js"
   },
   {
