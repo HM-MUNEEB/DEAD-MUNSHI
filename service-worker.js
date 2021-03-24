@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DEAD-MUNSHI/precache-manifest.a432b92e92b7b114678647ba79500f7b.js"
+  "/DEAD-MUNSHI/precache-manifest.452016a5a2c0bf57fa729015d6f82d0f.js"
 );
 
 self.addEventListener('message', (event) => {
